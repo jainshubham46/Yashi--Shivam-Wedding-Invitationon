@@ -35,7 +35,7 @@ export const events = [
     time: '6:00 PM',
     //location: 'Grand Pavilion, Royal Gardens',
     description:
-      'The auspicious union of Yashi and Vansh in a traditional ceremony',
+      'The auspicious union of Yashi and Shivam in a traditional ceremony',
     icon: Calendar,
   },
   {
@@ -101,7 +101,7 @@ export const gallery = [
     id: 3,
     image:
       'https://images.pexels.com/photos/2174656/pexels-photo-2174656.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
-    caption: 'Dancing at our favorite music festival',
+    caption: 'Dancing at our favourite music festival',
   },
   {
     id: 4,
